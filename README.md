@@ -2,6 +2,8 @@
 
 
 markdown
+
+
 Hi 👋 I'm Bienvni keba 
 
 
@@ -26,11 +28,11 @@ language: French, English (intermediate level) and my mother tongue, Lingala
 
 ---
 🛠️ skills for now. 
-- computer language: Python, JavaScript, C#,C/C++, HTML/CSS,machine learning and LLMs(beginner)
+- computer language: Python, JavaScript, C#,C/C++, HTML/CSS,machine learning (generative AI ,deep learning,LLMs)(beginner)
    
-- Tools: GitHub, Unity, SDL2, raspberry pi,Vs and technical tools in electricity and electronics
+- Tools: GitHub, Unity, SDL2, raspberry pi,Vs code and technical tools in electricity and electronics
   
-- Technologies: Cybersecurity and ethical hacking(beginner level for now), general electricity, Web/Mobile development,Automation  
+- Technologies: Cybersecurity and ethical hacking(beginner level for now), general electricity, game/Web/Mobile/AI developmentan(junior),Automation(junior)  , robotics(junior), smart grid(beginner) , AI 
 
 ---
 ---
